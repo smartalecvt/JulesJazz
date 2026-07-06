@@ -47,6 +47,6 @@ The included MuseScore templates are licensed under the MIT License. You are fre
 
 ## Credits
 
-JulesJazz and JulesJazz Text were created by Alec Julien, from modifactions of the excellent Finale Jazz fonts.
+JulesJazz and JulesJazz Text were created by Alec Julien, from modifications of the excellent Finale Jazz fonts.
 
 MuseScore and the SMuFL specification remain the property of their respective authors and organizations. This project is an independent enhancement and is not affiliated with or endorsed by the MuseScore project.
