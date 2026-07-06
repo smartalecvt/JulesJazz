@@ -1,10 +1,10 @@
 # JulesJazz
 
-A set of custom fonts, templates, and resources for creating professional jazz charts in MuseScore.
+A set of custom fonts, templates, and resources for creating professional jazz charts in MuseScore 4.
 
 ## Overview
 
-JulesJazz is a collection of enhancements for MuseScore designed to produce more traditional jazz notation. It includes custom SMuFL-compatible fonts, a lead sheet template, and supporting resources developed to improve the appearance of chord charts and other jazz notation.
+JulesJazz is a collection of enhancements for MuseScore 4 designed to produce more traditional jazz notation. It includes custom SMuFL-compatible fonts, a lead sheet template, and supporting resources developed to improve the appearance of chord charts and other jazz notation.
 
 The primary goal is not to reinvent MuseScore's engraving engine, but to refine its visual output so that finished charts more closely resemble professionally engraved jazz publications.
 
