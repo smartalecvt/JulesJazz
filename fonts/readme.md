@@ -1,0 +1,1 @@
+You'll probably want to install the JulesJazz fonts in your system fonts (as you would install any fonts). And if things aren't working and/or you want to go for completeness, you can copy the fonts to the MuseScore fonts folder (on Mac: /Applications/MuseScore 4.app/Contents/Resources/fonts) as well.
